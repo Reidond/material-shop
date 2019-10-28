@@ -1,0 +1,178 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "title": "COLLUSION Plus check blazer with print",
+      "price": "£40.00",
+      "color": "Orange",
+      "type": "Women",
+      "category": "Coats & Jackets",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/collusion-plus-check-blazer-with-print/12998363-1-orange?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-plus-check-blazer-with-print/12998363-2?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-plus-check-blazer-with-print/12998363-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-plus-check-blazer-with-print/12998363-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "Plus-size **blazer** by *COLLUSION*\n-   Add-to-bag potential: considerable\n-   Shawl lapels\n-   Check design\n-   Button closure\n-   Text print to cuffs\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1529573,
+      "brand": "A new brand for the coming-of-age generation that refuses to compromise on principle or style, *COLLUSION* believes clothes that celebrate self-expression and inclusivity should be the norm. It’s no surprise then that it’s linked up with six inspirational creatives to shape its first collection, which includes denim, knitwear, dresses and loads more.",
+      "size_n_fit": "Model wears: UK 18/ EU 46/ US 14\nModel's height: 176cm/5'9.5\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Smooth woven fabric\nThe kind that doesn't stretch\nMain: 100% Polyester."
+    },
+    {
+      "id": 2,
+      "title": "Only Petite faux fur jacket in sand",
+      "price": "£38.00",
+      "color": "Cuban sand",
+      "type": "Women",
+      "category": "Coats & Jackets",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/only-petite-faux-fur-jacket-in-sand/12478121-1-cubansand?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/only-petite-faux-fur-jacket-in-sand/12478121-2?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/only-petite-faux-fur-jacket-in-sand/12478121-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/only-petite-faux-fur-jacket-in-sand/12478121-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "**Petite coat**  by  *Only*\n-   Go with the faux\n-   Wide lapels\n-   Press-stud fastening\n-   Functional pockets\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1489440,
+      "brand": "Let’s be honest, we all love a bit of Scandi style. That’s why we’ve put together an edit of Danish high-street brand *Only's* freshest pieces, including classic denim cuts, oversized shirts and wide-leg jumpsuits. We’re crushing on its striped co-ords and wrap dresses for our daytime vibe.",
+      "size_n_fit": "Model wears: UK XS/ EU XS/ US XS\nModel's height: 160 cm/5'3\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Soft faux fur\nSeriously strokable\nBody: 100% Polyester, Lining: 100% Polyester."
+    },
+    {
+      "id": 3,
+      "title": "adidas Originals Locked Up logo track jacket in black",
+      "price": "£55.00",
+      "color": "Black",
+      "type": "Women",
+      "category": "Coats & Jackets",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/adidas-originals-locked-up-logo-track-jacket-in-black/11710913-1-black?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/adidas-originals-locked-up-logo-track-jacket-in-black/11710913-2?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/adidas-originals-locked-up-logo-track-jacket-in-black/11710913-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/adidas-originals-locked-up-logo-track-jacket-in-black/11710913-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "**Jacket** by *adidas*\n-   For those cold-ish days\n-   Stand collar\n-   Stripe sleeves\n-   Branded design\n-   Zip fastening\n-   Fitted trims\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1429923,
+      "brand": "With a brand history stretching back more than 60 years, *adidas* draws inspiration from street culture and retro styles to provide fresh, vintage-inspired collections. The *adidas Originals* range incorporates everything, from the brand's most iconic trainers to new jersey pieces.",
+      "size_n_fit": "Model wears: UK 8/ EU 36/ US 4\nModel's height: 175cm/5'9\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Smooth woven fabric\nThe kind that doesn't stretch\nMain: 100% Nylon, Lining: 100% Polyester"
+    },
+    {
+      "id": 4,
+      "title": "COLLUSION printed long sleeve t-shirt mini dress in black",
+      "price": "£15.00",
+      "color": "Black",
+      "type": "Women",
+      "category": "Dresses",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/collusion-printed-long-sleeve-t-shirt-mini-dress-in-black/13688072-1-black?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-printed-long-sleeve-t-shirt-mini-dress-in-black/13688072-2?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-printed-long-sleeve-t-shirt-mini-dress-in-black/13688072-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/collusion-printed-long-sleeve-t-shirt-mini-dress-in-black/13688072-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "**Mini dress** by *COLLUSION*\n-   Add-to-bag potential: considerable\n-   Crew neck\n-   Print to chest\n-   Long sleeves\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1585871,
+      "brand": "A new brand for the coming-of-age generation that refuses to compromise on principle or style, *COLLUSION* believes clothes that celebrate self-expression and inclusivity should be the norm. It’s no surprise then that it’s linked up with six inspirational creatives to shape its first collection, which includes denim, knitwear, dresses and loads more.",
+      "size_n_fit": "Model wears: UK 8/ EU 36/ US 4\nModel's height: 173.5cm/5'8.5\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Go-with-everything jersey\nIt's a soft all-rounder\nMain: 100% Cotton."
+    },
+    {
+      "id": 5,
+      "title": "ASOS DESIGN Tall denim shirt dress in black",
+      "price": "£25.00",
+      "color": "Black",
+      "type": "Women",
+      "category": "Dresses",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/asos-design-tall-denim-shirt-dress-in-black/13202085-1-black?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/asos-design-tall-denim-shirt-dress-in-black/13202085-2?$XXL$&wid=513&fit=constrainconstrain",
+        "https://images.asos-media.com/products/asos-design-tall-denim-shirt-dress-in-black/13202085-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/asos-design-tall-denim-shirt-dress-in-black/13202085-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "**Tall dress** by *ASOS DESIGN*\n-   Part of our responsible edit\n-   Spread collar\n-   Button placket\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1547652,
+      "brand": "This is *ASOS DESIGN* – your go-to for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "size_n_fit": "Model wears: UK 8/ EU 36/ US 4\nModel's height: 180cm/5'11\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Soft denim\nWe partner with the Better Cotton Initiative to improve cotton\nfarming globally\nThis makes it better for farmers and the environment\nBCI provides farming-practice training\nIt promotes things like water efficiency and reducing the most\nharmful chemicals\nMain: 100% Cotton."
+    },
+    {
+      "id": 6,
+      "title": "ASOS DESIGN recycled chiffon beach maxi dress with twist front",
+      "price": "£26.00",
+      "color": "Black",
+      "type": "Women",
+      "category": "Dresses",
+      "sizes": [
+        "EU 44",
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56"
+      ],
+      "photos": [
+        "https://images.asos-media.com/products/asos-design-recycled-chiffon-beach-maxi-dress-with-twist-front/13268564-1-black?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/asos-design-recycled-chiffon-beach-maxi-dress-with-twist-front/13268564-2?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/asos-design-recycled-chiffon-beach-maxi-dress-with-twist-front/13268564-3?$XXL$&wid=513&fit=constrain",
+        "https://images.asos-media.com/products/asos-design-recycled-chiffon-beach-maxi-dress-with-twist-front/13268564-4?$XXL$&wid=513&fit=constrain"
+      ],
+      "product_details": "**Maxi dress** by *ASOS DESIGN*\n-   For that holiday you haven't booked yet\n-   Plunge neck\n-   Twist front\n-   Regular fit\n-   Just select your usual size",
+      "product_code": 1552776,
+      "brand": "This is *ASOS DESIGN* – your go-to for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+      "size_n_fit": "Model wears: UK 8/ EU 36/ US 4\nModel's height: 170cm/5'7\"",
+      "look_after_me": "Clothes have needs, too\nSee below for full care instructions\nMachine wash according to instructions on care label",
+      "about_me": "Lightweight woven fabric\nThe kind that doesn't stretch\nMain: 100% Polyester."
+    }
+  ]
+}

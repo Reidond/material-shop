@@ -1,0 +1,12 @@
+{
+  "name": "specialcatdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Reidond/special-cat-jsonplaceholder-db.git",
+  "author": "Reidond <reidond@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
