@@ -6,7 +6,7 @@ module.exports = {
   chainWebpack: config => {
     config.module.rules.delete("scss");
 
-    let scssRule = config.module.rule("scss").test(/\.scss$/);
+    let scssRule = config.module.rule("scss").test(/\.(scss)$/);
 
     [
       { name: "vue-style-loader" },
