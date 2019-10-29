@@ -3,6 +3,11 @@ module.exports = {
   configureWebpack: {
     devtool: "source-map"
   },
+  devServer: {
+    watchOptions: {
+      poll: true
+    }
+  },
   chainWebpack: config => {
     config.module.rules.delete("scss");
 

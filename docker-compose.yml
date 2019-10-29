@@ -8,9 +8,13 @@ services:
       - "8080:8080"
     depends_on:
       - db
+    volumes:
+      - ".:/usr/src/app"
   db:
     build:
       context: ./special-cat-db
       dockerfile: Dockerfile
     ports:
       - "3004:3004"
+    volumes:
+      - "./special-cat-db:/usr/src/app"
