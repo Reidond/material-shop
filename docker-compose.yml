@@ -1,0 +1,16 @@
+version: "3"
+services:
+  shop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+  db:
+    build:
+      context: ./special-cat-db
+      dockerfile: Dockerfile
+    ports:
+      - "3004:3004"
