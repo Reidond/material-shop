@@ -10,5 +10,7 @@ RUN yarn
 
 COPY . .
 
+RUN npm install -g json-server
+
 EXPOSE 3004
-ENTRYPOINT [ "./node_modules/.bin/json-server", "--watch", "db.json", "--port", "3004" ]
+ENTRYPOINT [ "json-server", "-H", "0.0.0.0", "--watch", "/usr/src/app/db.json", "--port", "3004" ]
