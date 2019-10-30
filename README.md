@@ -1,4 +1,4 @@
-# special-cat-shop
+# material shop
 
 ## Project setup
 ```

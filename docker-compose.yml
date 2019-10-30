@@ -12,9 +12,9 @@ services:
       - ".:/usr/src/app"
   db:
     build:
-      context: ./special-cat-db
+      context: ./db
       dockerfile: Dockerfile
     ports:
       - "3004:3004"
     volumes:
-      - "./special-cat-db:/usr/src/app"
+      - "./db:/usr/src/app"
