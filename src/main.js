@@ -7,9 +7,11 @@ import "roboto-fontface/css/roboto/roboto-fontface.css";
 import "@mdi/font/css/materialdesignicons.css";
 import VueRouter from "vue-router";
 import VuexCompositionApi from "vuex-composition-api";
+import lineClamp from "vue-line-clamp";
 
 Vue.use(VueRouter);
 Vue.use(VuexCompositionApi);
+Vue.use(lineClamp);
 
 Vue.config.productionTip = false;
 
