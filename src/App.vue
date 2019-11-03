@@ -34,6 +34,17 @@
 </template>
 
 <script>
+import { reactive } from "@vue/composition-api";
+
+export default {
+  name: "app",
+  setup() {
+    const state = reactive({});
+
+    return {
+      state
+    };
+  }
 export default {
   name: "App",
   components: {},
